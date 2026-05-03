@@ -6,15 +6,15 @@ An AI-powered system that analyzes past question papers against a syllabus to id
 
 ---
 
-## 🎥 Demo Video
 
-> **[Watch Demo on Google Drive](YOUR_GOOGLE_DRIVE_LINK_HERE)**
+
+
 
 ---
 
 ## 🚀 Live App
 
-> **[https://your-app.vercel.app](https://your-app.vercel.app)**
+> **[https://your-app.vercel.app](https://vercel.com/kashishgupta78428-creates-projects)**
 
 ---
 
