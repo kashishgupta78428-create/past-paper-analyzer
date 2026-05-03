@@ -7,7 +7,8 @@ An AI-powered system that analyzes past question papers against a syllabus to id
 ---
 
 
-
+demo video
+https://drive.google.com/file/d/1-tu4dBFprsEVbCJDtFNY6zJTFB6V4s8n/view?usp=drive_link
 
 
 ---
