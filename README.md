@@ -142,10 +142,6 @@ past-paper-analyzer/
 
 ## 👨‍💻 Built By
 
-- **[Your Name]** — [GitHub](https://github.com/YOUR_USERNAME)
+-kashish gupta-https://github.com/kashishgupta78428-create/past-paper-analyzer/edit/main/README.md#:~:text=kashishgupta78428%2Dcreate-,past%2Dpaper%2Danalyzer,-Type
 
----
 
-## 📄 License
-
-MIT
